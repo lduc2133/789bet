@@ -11,7 +11,7 @@ import 'package:flutter/services.dart';
 import 'package:lottie/lottie.dart';
 import 'package:provider/provider.dart';
 // ignore: import_of_legacy_library_into_null_safe
-import 'package:form_validator/form_validator.dart';
+// import 'package:form_validator/form_validator.dart';
 // import 'package:validators/validators.dart';
 
 // import 'package:form_validator/form_validator.dart';
