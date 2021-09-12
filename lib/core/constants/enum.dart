@@ -1,0 +1,4 @@
+enum AccountTypeEnum{
+  Owner,
+  Staff
+}

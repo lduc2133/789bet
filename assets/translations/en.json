@@ -1,0 +1,15 @@
+﻿{
+	"hello":"Hello",
+	"network": "Cannot connect to server. Please check your connection.",
+	"loading": "Loading",
+	"agree": "Agress",
+	"close": "Close",
+	"change_language": "Change language",
+	"login": "Login",
+	"username": "Username",
+	"password": "Password",
+	"forget_password": "Forgot password",
+	"do_you_have_account": "Do not have an account?",
+	"register": "Register"
+
+}
